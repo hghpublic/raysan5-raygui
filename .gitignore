@@ -63,4 +63,4 @@
 
 build
 
-!/.vscode/
+!projects/CMake/.vscode/
